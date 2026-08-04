@@ -6,3 +6,5 @@ Read environmental parameter values in Go.
 Clone this project and look at the source files:
 - `main.go`
 - `config.go`
+
+*Initialized by willlliammmjohnssonn workspace automation.*
